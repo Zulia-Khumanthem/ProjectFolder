@@ -1,1 +1,1 @@
-![BirdUML diagram](BirdUML)
+![BirdUML diagram](BirdUML-image-url)
